@@ -178,6 +178,9 @@ body {
   -webkit-text-stroke-color: #000;
 }
 @media (min-width: 768px) {
+  #competences h2 {
+  font-size: 20px;
+  }
   #text .line1 span,
   #text .line2 span,
   #text .line3 span {
