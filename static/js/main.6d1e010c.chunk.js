@@ -772,7 +772,7 @@
                             "data-aos": "zoom-out",
                             children: Object(C.jsxs)(ze, {
                               href:
-                                "https://zepolimer.github.io/Zepolimer_Calculator/",
+                                "https://zepolimer.github.io/Calculator/",
                               children: [
                                 Object(C.jsx)(Ce, { children: "01" }),
                                 Object(C.jsx)(Se, { children: "Calculator" }),
@@ -784,7 +784,7 @@
                             "data-aos": "zoom-out",
                             children: Object(C.jsxs)(ze, {
                               href:
-                                "https://zepolimer.github.io/Zepolimer_Sunnyside_Agency/",
+                                "https://zepolimer.github.io/Sunnyside_Agency/",
                               children: [
                                 Object(C.jsx)(Ce, { children: "02" }),
                                 Object(C.jsx)(Se, { children: "SunnySide" }),
@@ -796,7 +796,7 @@
                             "data-aos": "zoom-out",
                             children: Object(C.jsxs)(ze, {
                               href:
-                                "https://zepolimer.github.io/Zepolimer_Loopstudio/",
+                                "https://zepolimer.github.io/Loopstudio/",
                               children: [
                                 Object(C.jsx)(Ce, { children: "03" }),
                                 Object(C.jsx)(Se, { children: "Loopstudio" }),
@@ -808,7 +808,7 @@
                             "data-aos": "zoom-out",
                             children: Object(C.jsxs)(ze, {
                               href:
-                                "https://zepolimer.github.io/Zepolimer_Room_Homepage/",
+                                "https://zepolimer.github.io/Room_Homepage/",
                               children: [
                                 Object(C.jsx)(Ce, { children: "04" }),
                                 Object(C.jsx)(Se, { children: "RoomPage" }),
@@ -820,7 +820,7 @@
                             "data-aos": "zoom-out",
                             children: Object(C.jsxs)(ze, {
                               href:
-                                "https://zepolimer.github.io/Zepolimer-Crowfunding/",
+                                "https://zepolimer.github.io/Crowfunding/",
                               children: [
                                 Object(C.jsx)(Ce, { children: "05" }),
                                 Object(C.jsx)(Se, { children: "Crowdfunding" }),
@@ -832,7 +832,7 @@
                             "data-aos": "zoom-out",
                             children: Object(C.jsxs)(ze, {
                               href:
-                                "https://zepolimer.github.io/Zepolimer-Interactive_Princing/",
+                                "https://zepolimer.github.io/Princing_Toggle/",
                               children: [
                                 Object(C.jsx)(Ce, { children: "06" }),
                                 Object(C.jsx)(Se, { children: "Pricing" }),
