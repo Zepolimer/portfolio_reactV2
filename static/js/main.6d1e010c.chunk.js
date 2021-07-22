@@ -628,7 +628,7 @@
         me = N.a.aside(
           re ||
             (re = Object(A.a)([
-              "\n    position: fixed;\n    z-index: 999;\n    width: 100%;\n    height: 100%;\n    background: black;\n    display: grid;\n    grid-template-rows: 80px auto;\n    align-items: center;\n    top: 0;\n    left: 0;\n    transition: 0.5 ease-in-out;\n    opacity: ",
+              "\n    position: fixed;\n    z-index: 999;\n    width: 100%;\n    height: 100%;\n    background: black;\n    display: grid;\n    grid-template-rows: 80px auto;\n    align-items: flex-start;\n    top: 0;\n    left: 0;\n    transition: 0.5 ease-in-out;\n    opacity: ",
               ";\n    max-height: ",
               ";\n    top: ",
               ";",
@@ -652,13 +652,13 @@
         Oe = N.a.div(
           oe ||
             (oe = Object(A.a)([
-              "\n    width: 90%;\n    margin: 0 auto;\n    display: flex;\n    justify-content: flex-end;\n    align-items: center;\n    height: 80px;\n    font-size: 1.8rem;\n    cursor: pointer;",
+              "\n    width: 90%;\n    margin: 0 auto;\n    display: flex;\n    justify-content: flex-end;\n    align-items: center;\n    height: 70px;\n    font-size: 1.8rem;\n    cursor: pointer;",
             ]))
         ),
         fe = N.a.div(
           ce ||
             (ce = Object(A.a)([
-              "\n  height: 90vh;\n  width: auto;\n\n  background-color: black;\n  display: -ms-grid;\n  display: grid;\n  -ms-grid-rows: auto;\n      grid-template-rows: auto;\n  -ms-grid-columns: 100%;\n      grid-template-columns: 100%;\n      justify-items: center;\n      align-items: center;\n",
+              "\n  height: 70vh;\n  width: auto;\n\n  background-color: black;\n  display: -ms-grid;\n  display: grid;\n  -ms-grid-rows: auto;\n      grid-template-rows: auto;\n  -ms-grid-columns: 100%;\n      grid-template-columns: 100%;\n      justify-items: center;\n      align-items: center;\n",
             ]))
         ),
         ge = N.a.a(
