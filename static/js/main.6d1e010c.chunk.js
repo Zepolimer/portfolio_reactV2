@@ -628,7 +628,7 @@
         me = N.a.aside(
           re ||
             (re = Object(A.a)([
-              "\n    position: fixed;\n    z-index: 999;\n    width: 100%;\n    height: 100%;\n    background: black;\n    display: grid;\n    grid-template-rows: 80px auto;\n    align-items: flex-start;\n    top: 0;\n    left: 0;\n    transition: 0.5 ease-in-out;\n    opacity: ",
+              "\n    position: fixed;\n    z-index: 999;\n    width: 100%;\n    height: 100vh;\n    background: black;\n    display: grid;\n    grid-template-rows: 80px auto;\n    align-items: flex-start;\n    top: 0;\n    left: 0;\n    transition: 0.5 ease-in-out;\n    opacity: ",
               ";\n    max-height: ",
               ";\n    top: ",
               ";",
